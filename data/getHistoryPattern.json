@@ -1,0 +1,1541 @@
+{
+  "main": [
+    {
+      "pattern": "abcdef",
+      "count": 10862,
+      "percent": 15.06
+    },
+    {
+      "pattern": "abbcde",
+      "count": 2262,
+      "percent": 3.14
+    },
+    {
+      "pattern": "abcded",
+      "count": 2253,
+      "percent": 3.12
+    },
+    {
+      "pattern": "abcdec",
+      "count": 2240,
+      "percent": 3.11
+    },
+    {
+      "pattern": "abacde",
+      "count": 2217,
+      "percent": 3.07
+    },
+    {
+      "pattern": "abcdee",
+      "count": 2216,
+      "percent": 3.07
+    },
+    {
+      "pattern": "abcdae",
+      "count": 2215,
+      "percent": 3.07
+    },
+    {
+      "pattern": "abcbde",
+      "count": 2188,
+      "percent": 3.03
+    },
+    {
+      "pattern": "abcdbe",
+      "count": 2183,
+      "percent": 3.03
+    },
+    {
+      "pattern": "abcdce",
+      "count": 2182,
+      "percent": 3.03
+    },
+    {
+      "pattern": "abcdde",
+      "count": 2167,
+      "percent": 3.01
+    },
+    {
+      "pattern": "abccde",
+      "count": 2155,
+      "percent": 2.99
+    },
+    {
+      "pattern": "aabcde",
+      "count": 2153,
+      "percent": 2.99
+    },
+    {
+      "pattern": "abcade",
+      "count": 2122,
+      "percent": 2.94
+    },
+    {
+      "pattern": "abcdeb",
+      "count": 2119,
+      "percent": 2.94
+    },
+    {
+      "pattern": "abcdea",
+      "count": 2083,
+      "percent": 2.89
+    },
+    {
+      "pattern": "abccbd",
+      "count": 401,
+      "percent": 0.56
+    },
+    {
+      "pattern": "abcadd",
+      "count": 395,
+      "percent": 0.55
+    },
+    {
+      "pattern": "abbcdc",
+      "count": 389,
+      "percent": 0.54
+    },
+    {
+      "pattern": "abbcdb",
+      "count": 389,
+      "percent": 0.54
+    },
+    {
+      "pattern": "aabccd",
+      "count": 387,
+      "percent": 0.54
+    },
+    {
+      "pattern": "abcdbd",
+      "count": 386,
+      "percent": 0.54
+    },
+    {
+      "pattern": "abcdba",
+      "count": 385,
+      "percent": 0.53
+    },
+    {
+      "pattern": "abaccd",
+      "count": 383,
+      "percent": 0.53
+    },
+    {
+      "pattern": "abcdaa",
+      "count": 382,
+      "percent": 0.53
+    },
+    {
+      "pattern": "abcccd",
+      "count": 382,
+      "percent": 0.53
+    },
+    {
+      "pattern": "abacdd",
+      "count": 382,
+      "percent": 0.53
+    },
+    {
+      "pattern": "abcbbd",
+      "count": 381,
+      "percent": 0.53
+    },
+    {
+      "pattern": "abacad",
+      "count": 381,
+      "percent": 0.53
+    },
+    {
+      "pattern": "abacda",
+      "count": 380,
+      "percent": 0.53
+    },
+    {
+      "pattern": "abcddd",
+      "count": 378,
+      "percent": 0.52
+    },
+    {
+      "pattern": "abacdb",
+      "count": 377,
+      "percent": 0.52
+    },
+    {
+      "pattern": "abcdbc",
+      "count": 375,
+      "percent": 0.52
+    },
+    {
+      "pattern": "aabcdc",
+      "count": 375,
+      "percent": 0.52
+    },
+    {
+      "pattern": "ababcd",
+      "count": 374,
+      "percent": 0.52
+    },
+    {
+      "pattern": "aabacd",
+      "count": 373,
+      "percent": 0.52
+    },
+    {
+      "pattern": "abbccd",
+      "count": 372,
+      "percent": 0.52
+    },
+    {
+      "pattern": "abccdd",
+      "count": 371,
+      "percent": 0.51
+    },
+    {
+      "pattern": "aabcdd",
+      "count": 368,
+      "percent": 0.51
+    },
+    {
+      "pattern": "aabcad",
+      "count": 368,
+      "percent": 0.51
+    },
+    {
+      "pattern": "abcdcb",
+      "count": 368,
+      "percent": 0.51
+    },
+    {
+      "pattern": "aabbcd",
+      "count": 367,
+      "percent": 0.51
+    },
+    {
+      "pattern": "abcbdc",
+      "count": 367,
+      "percent": 0.51
+    },
+    {
+      "pattern": "aabcda",
+      "count": 366,
+      "percent": 0.51
+    },
+    {
+      "pattern": "abcbcd",
+      "count": 366,
+      "percent": 0.51
+    },
+    {
+      "pattern": "abcbdd",
+      "count": 366,
+      "percent": 0.51
+    },
+    {
+      "pattern": "abcdad",
+      "count": 365,
+      "percent": 0.51
+    },
+    {
+      "pattern": "abcdac",
+      "count": 363,
+      "percent": 0.5
+    },
+    {
+      "pattern": "aabcbd",
+      "count": 363,
+      "percent": 0.5
+    },
+    {
+      "pattern": "abbacd",
+      "count": 363,
+      "percent": 0.5
+    },
+    {
+      "pattern": "abcadb",
+      "count": 362,
+      "percent": 0.5
+    },
+    {
+      "pattern": "aaabcd",
+      "count": 360,
+      "percent": 0.5
+    },
+    {
+      "pattern": "abcbad",
+      "count": 359,
+      "percent": 0.5
+    },
+    {
+      "pattern": "abcada",
+      "count": 358,
+      "percent": 0.5
+    },
+    {
+      "pattern": "abcabd",
+      "count": 358,
+      "percent": 0.5
+    },
+    {
+      "pattern": "abcbda",
+      "count": 358,
+      "percent": 0.5
+    },
+    {
+      "pattern": "abbcdd",
+      "count": 358,
+      "percent": 0.5
+    },
+    {
+      "pattern": "abcdca",
+      "count": 357,
+      "percent": 0.5
+    },
+    {
+      "pattern": "abbcda",
+      "count": 356,
+      "percent": 0.49
+    },
+    {
+      "pattern": "abcdcc",
+      "count": 356,
+      "percent": 0.49
+    },
+    {
+      "pattern": "abcddb",
+      "count": 354,
+      "percent": 0.49
+    },
+    {
+      "pattern": "abacdc",
+      "count": 353,
+      "percent": 0.49
+    },
+    {
+      "pattern": "abcdbb",
+      "count": 353,
+      "percent": 0.49
+    },
+    {
+      "pattern": "abcdda",
+      "count": 352,
+      "percent": 0.49
+    },
+    {
+      "pattern": "abaacd",
+      "count": 352,
+      "percent": 0.49
+    },
+    {
+      "pattern": "abbbcd",
+      "count": 351,
+      "percent": 0.49
+    },
+    {
+      "pattern": "abcadc",
+      "count": 350,
+      "percent": 0.49
+    },
+    {
+      "pattern": "abcbdb",
+      "count": 349,
+      "percent": 0.48
+    },
+    {
+      "pattern": "abcddc",
+      "count": 348,
+      "percent": 0.48
+    },
+    {
+      "pattern": "abbcad",
+      "count": 348,
+      "percent": 0.48
+    },
+    {
+      "pattern": "abccdb",
+      "count": 346,
+      "percent": 0.48
+    },
+    {
+      "pattern": "abcacd",
+      "count": 346,
+      "percent": 0.48
+    },
+    {
+      "pattern": "abacbd",
+      "count": 344,
+      "percent": 0.48
+    },
+    {
+      "pattern": "aabcdb",
+      "count": 343,
+      "percent": 0.48
+    },
+    {
+      "pattern": "abccda",
+      "count": 342,
+      "percent": 0.47
+    },
+    {
+      "pattern": "abcaad",
+      "count": 340,
+      "percent": 0.47
+    },
+    {
+      "pattern": "abcdcd",
+      "count": 336,
+      "percent": 0.47
+    },
+    {
+      "pattern": "abcdab",
+      "count": 336,
+      "percent": 0.47
+    },
+    {
+      "pattern": "abbcbd",
+      "count": 333,
+      "percent": 0.46
+    },
+    {
+      "pattern": "abccdc",
+      "count": 333,
+      "percent": 0.46
+    },
+    {
+      "pattern": "abccad",
+      "count": 331,
+      "percent": 0.46
+    },
+    {
+      "pattern": "aabcca",
+      "count": 63,
+      "percent": 0.09
+    },
+    {
+      "pattern": "abbbcb",
+      "count": 63,
+      "percent": 0.09
+    },
+    {
+      "pattern": "aabbca",
+      "count": 62,
+      "percent": 0.09
+    },
+    {
+      "pattern": "abccab",
+      "count": 61,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abcaac",
+      "count": 61,
+      "percent": 0.08
+    },
+    {
+      "pattern": "aabccc",
+      "count": 61,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abcbcb",
+      "count": 61,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abacab",
+      "count": 60,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abbaca",
+      "count": 60,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abccbc",
+      "count": 59,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abbacc",
+      "count": 59,
+      "percent": 0.08
+    },
+    {
+      "pattern": "ababac",
+      "count": 59,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abbbca",
+      "count": 58,
+      "percent": 0.08
+    },
+    {
+      "pattern": "aabcab",
+      "count": 57,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abcaaa",
+      "count": 57,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abacbb",
+      "count": 57,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abbcba",
+      "count": 57,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abbccb",
+      "count": 57,
+      "percent": 0.08
+    },
+    {
+      "pattern": "ababcc",
+      "count": 56,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abaccb",
+      "count": 56,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abaabc",
+      "count": 56,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abcbab",
+      "count": 56,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abcbca",
+      "count": 56,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abacaa",
+      "count": 56,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abbcaa",
+      "count": 55,
+      "percent": 0.08
+    },
+    {
+      "pattern": "aababc",
+      "count": 55,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abbccc",
+      "count": 55,
+      "percent": 0.08
+    },
+    {
+      "pattern": "abccca",
+      "count": 55,
+      "percent": 0.08
+    },
+    {
+      "pattern": "aabcac",
+      "count": 55,
+      "percent": 0.08
+    },
+    {
+      "pattern": "aabbbc",
+      "count": 55,
+      "percent": 0.08
+    },
+    {
+      "pattern": "aabcbc",
+      "count": 55,
+      "percent": 0.08
+    },
+    {
+      "pattern": "aabcba",
+      "count": 55,
+      "percent": 0.08
+    },
+    {
+      "pattern": "aaabcb",
+      "count": 54,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abbcca",
+      "count": 54,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abbacb",
+      "count": 54,
+      "percent": 0.07
+    },
+    {
+      "pattern": "aaabca",
+      "count": 54,
+      "percent": 0.07
+    },
+    {
+      "pattern": "aaabbc",
+      "count": 54,
+      "percent": 0.07
+    },
+    {
+      "pattern": "aaabac",
+      "count": 54,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abacba",
+      "count": 54,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abccaa",
+      "count": 53,
+      "percent": 0.07
+    },
+    {
+      "pattern": "aabcbb",
+      "count": 53,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abcaab",
+      "count": 53,
+      "percent": 0.07
+    },
+    {
+      "pattern": "aabbcb",
+      "count": 53,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abcaca",
+      "count": 53,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abbbac",
+      "count": 53,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abbabc",
+      "count": 52,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abcaba",
+      "count": 52,
+      "percent": 0.07
+    },
+    {
+      "pattern": "aabacb",
+      "count": 52,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abaaac",
+      "count": 52,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abaacc",
+      "count": 52,
+      "percent": 0.07
+    },
+    {
+      "pattern": "ababbc",
+      "count": 52,
+      "percent": 0.07
+    },
+    {
+      "pattern": "aabcaa",
+      "count": 52,
+      "percent": 0.07
+    },
+    {
+      "pattern": "aabacc",
+      "count": 52,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abbbbc",
+      "count": 52,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abacac",
+      "count": 52,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abbcbc",
+      "count": 52,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abcbbb",
+      "count": 51,
+      "percent": 0.07
+    },
+    {
+      "pattern": "aabbac",
+      "count": 51,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abcacb",
+      "count": 50,
+      "percent": 0.07
+    },
+    {
+      "pattern": "aaaabc",
+      "count": 50,
+      "percent": 0.07
+    },
+    {
+      "pattern": "aabaca",
+      "count": 50,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abccba",
+      "count": 50,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abbcbb",
+      "count": 50,
+      "percent": 0.07
+    },
+    {
+      "pattern": "aabaac",
+      "count": 50,
+      "percent": 0.07
+    },
+    {
+      "pattern": "aabccb",
+      "count": 49,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abacbc",
+      "count": 49,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abcabb",
+      "count": 48,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abccac",
+      "count": 48,
+      "percent": 0.07
+    },
+    {
+      "pattern": "aabbcc",
+      "count": 47,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abbbcc",
+      "count": 47,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abacca",
+      "count": 47,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abcacc",
+      "count": 47,
+      "percent": 0.07
+    },
+    {
+      "pattern": "abcccb",
+      "count": 46,
+      "percent": 0.06
+    },
+    {
+      "pattern": "ababcb",
+      "count": 46,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abaccc",
+      "count": 46,
+      "percent": 0.06
+    },
+    {
+      "pattern": "ababca",
+      "count": 46,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abbcac",
+      "count": 46,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcabc",
+      "count": 44,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcbba",
+      "count": 44,
+      "percent": 0.06
+    },
+    {
+      "pattern": "aaabcc",
+      "count": 43,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abaaca",
+      "count": 42,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcbcc",
+      "count": 42,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abbcab",
+      "count": 42,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abaacb",
+      "count": 42,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abbaac",
+      "count": 42,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcccc",
+      "count": 41,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcbac",
+      "count": 41,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcbbc",
+      "count": 40,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abccbb",
+      "count": 38,
+      "percent": 0.05
+    },
+    {
+      "pattern": "abcbaa",
+      "count": 36,
+      "percent": 0.05
+    },
+    {
+      "pattern": "aaaabb",
+      "count": 11,
+      "percent": 0.02
+    },
+    {
+      "pattern": "abbabb",
+      "count": 11,
+      "percent": 0.02
+    },
+    {
+      "pattern": "aabbbb",
+      "count": 10,
+      "percent": 0.01
+    },
+    {
+      "pattern": "aababb",
+      "count": 9,
+      "percent": 0.01
+    },
+    {
+      "pattern": "aabbaa",
+      "count": 9,
+      "percent": 0.01
+    },
+    {
+      "pattern": "abaabb",
+      "count": 9,
+      "percent": 0.01
+    },
+    {
+      "pattern": "ababaa",
+      "count": 9,
+      "percent": 0.01
+    },
+    {
+      "pattern": "aabaaa",
+      "count": 9,
+      "percent": 0.01
+    },
+    {
+      "pattern": "abbaba",
+      "count": 9,
+      "percent": 0.01
+    },
+    {
+      "pattern": "aabaab",
+      "count": 9,
+      "percent": 0.01
+    },
+    {
+      "pattern": "ababab",
+      "count": 8,
+      "percent": 0.01
+    },
+    {
+      "pattern": "abaaab",
+      "count": 8,
+      "percent": 0.01
+    },
+    {
+      "pattern": "abbbaa",
+      "count": 7,
+      "percent": 0.01
+    },
+    {
+      "pattern": "abaaaa",
+      "count": 7,
+      "percent": 0.01
+    },
+    {
+      "pattern": "abbaaa",
+      "count": 7,
+      "percent": 0.01
+    },
+    {
+      "pattern": "abbbab",
+      "count": 7,
+      "percent": 0.01
+    },
+    {
+      "pattern": "abbaab",
+      "count": 7,
+      "percent": 0.01
+    },
+    {
+      "pattern": "abbbbb",
+      "count": 7,
+      "percent": 0.01
+    },
+    {
+      "pattern": "aababa",
+      "count": 7,
+      "percent": 0.01
+    },
+    {
+      "pattern": "abaaba",
+      "count": 7,
+      "percent": 0.01
+    },
+    {
+      "pattern": "aaaaab",
+      "count": 6,
+      "percent": 0.01
+    },
+    {
+      "pattern": "aabbab",
+      "count": 5,
+      "percent": 0.01
+    },
+    {
+      "pattern": "aaabab",
+      "count": 5,
+      "percent": 0.01
+    },
+    {
+      "pattern": "abbbba",
+      "count": 5,
+      "percent": 0.01
+    },
+    {
+      "pattern": "ababba",
+      "count": 4,
+      "percent": 0.01
+    },
+    {
+      "pattern": "aaaaba",
+      "count": 4,
+      "percent": 0.01
+    },
+    {
+      "pattern": "aaabba",
+      "count": 4,
+      "percent": 0.01
+    },
+    {
+      "pattern": "aabbba",
+      "count": 3,
+      "percent": 0.0
+    },
+    {
+      "pattern": "aaabbb",
+      "count": 3,
+      "percent": 0.0
+    },
+    {
+      "pattern": "ababbb",
+      "count": 3,
+      "percent": 0.0
+    },
+    {
+      "pattern": "aaabaa",
+      "count": 2,
+      "percent": 0.0
+    }
+  ],
+  "optional": [
+    {
+      "pattern": "abc",
+      "count": 676,
+      "percent": 37.77
+    },
+    {
+      "pattern": "ab",
+      "count": 397,
+      "percent": 22.18
+    },
+    {
+      "pattern": "aab",
+      "count": 79,
+      "percent": 4.41
+    },
+    {
+      "pattern": "abb",
+      "count": 78,
+      "percent": 4.36
+    },
+    {
+      "pattern": "aba",
+      "count": 74,
+      "percent": 4.13
+    },
+    {
+      "pattern": "abcdef",
+      "count": 69,
+      "percent": 3.85
+    },
+    {
+      "pattern": "aa",
+      "count": 40,
+      "percent": 2.23
+    },
+    {
+      "pattern": "abcdea",
+      "count": 19,
+      "percent": 1.06
+    },
+    {
+      "pattern": "abcdee",
+      "count": 18,
+      "percent": 1.01
+    },
+    {
+      "pattern": "abcdce",
+      "count": 15,
+      "percent": 0.84
+    },
+    {
+      "pattern": "abcade",
+      "count": 15,
+      "percent": 0.84
+    },
+    {
+      "pattern": "abcdbe",
+      "count": 15,
+      "percent": 0.84
+    },
+    {
+      "pattern": "abbcde",
+      "count": 14,
+      "percent": 0.78
+    },
+    {
+      "pattern": "abcdde",
+      "count": 13,
+      "percent": 0.73
+    },
+    {
+      "pattern": "abcdec",
+      "count": 13,
+      "percent": 0.73
+    },
+    {
+      "pattern": "abacde",
+      "count": 12,
+      "percent": 0.67
+    },
+    {
+      "pattern": "abcdeb",
+      "count": 12,
+      "percent": 0.67
+    },
+    {
+      "pattern": "abcded",
+      "count": 12,
+      "percent": 0.67
+    },
+    {
+      "pattern": "aabcde",
+      "count": 11,
+      "percent": 0.61
+    },
+    {
+      "pattern": "abcdae",
+      "count": 11,
+      "percent": 0.61
+    },
+    {
+      "pattern": "aaa",
+      "count": 9,
+      "percent": 0.5
+    },
+    {
+      "pattern": "abccde",
+      "count": 7,
+      "percent": 0.39
+    },
+    {
+      "pattern": "abcadb",
+      "count": 5,
+      "percent": 0.28
+    },
+    {
+      "pattern": "abcdbd",
+      "count": 5,
+      "percent": 0.28
+    },
+    {
+      "pattern": "abccbd",
+      "count": 5,
+      "percent": 0.28
+    },
+    {
+      "pattern": "abcbde",
+      "count": 5,
+      "percent": 0.28
+    },
+    {
+      "pattern": "abcbcd",
+      "count": 4,
+      "percent": 0.22
+    },
+    {
+      "pattern": "abcbdb",
+      "count": 4,
+      "percent": 0.22
+    },
+    {
+      "pattern": "abcbdd",
+      "count": 4,
+      "percent": 0.22
+    },
+    {
+      "pattern": "abcbad",
+      "count": 4,
+      "percent": 0.22
+    },
+    {
+      "pattern": "abcddc",
+      "count": 4,
+      "percent": 0.22
+    },
+    {
+      "pattern": "abbcdc",
+      "count": 4,
+      "percent": 0.22
+    },
+    {
+      "pattern": "abcccd",
+      "count": 4,
+      "percent": 0.22
+    },
+    {
+      "pattern": "aabccd",
+      "count": 4,
+      "percent": 0.22
+    },
+    {
+      "pattern": "aabcda",
+      "count": 4,
+      "percent": 0.22
+    },
+    {
+      "pattern": "abcdcb",
+      "count": 4,
+      "percent": 0.22
+    },
+    {
+      "pattern": "abcacd",
+      "count": 4,
+      "percent": 0.22
+    },
+    {
+      "pattern": "abacbd",
+      "count": 3,
+      "percent": 0.17
+    },
+    {
+      "pattern": "abcbda",
+      "count": 3,
+      "percent": 0.17
+    },
+    {
+      "pattern": "abccba",
+      "count": 3,
+      "percent": 0.17
+    },
+    {
+      "pattern": "abbccd",
+      "count": 3,
+      "percent": 0.17
+    },
+    {
+      "pattern": "aabcdc",
+      "count": 3,
+      "percent": 0.17
+    },
+    {
+      "pattern": "abcadd",
+      "count": 3,
+      "percent": 0.17
+    },
+    {
+      "pattern": "aabcdb",
+      "count": 3,
+      "percent": 0.17
+    },
+    {
+      "pattern": "abacda",
+      "count": 3,
+      "percent": 0.17
+    },
+    {
+      "pattern": "abcaad",
+      "count": 3,
+      "percent": 0.17
+    },
+    {
+      "pattern": "abbcbd",
+      "count": 3,
+      "percent": 0.17
+    },
+    {
+      "pattern": "abbcad",
+      "count": 3,
+      "percent": 0.17
+    },
+    {
+      "pattern": "abcabd",
+      "count": 3,
+      "percent": 0.17
+    },
+    {
+      "pattern": "abcdac",
+      "count": 3,
+      "percent": 0.17
+    },
+    {
+      "pattern": "aabcbd",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abacac",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "aabcad",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abcddd",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "aabcdd",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abcdba",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abccda",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "aaabcd",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abcdbb",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "ababcd",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "aabacd",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abccdb",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abcaab",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "aabcbc",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abccdd",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "aabbcd",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abbbcd",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abbcdb",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abcdcc",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abbcda",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abcddb",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abaacd",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abcdda",
+      "count": 2,
+      "percent": 0.11
+    },
+    {
+      "pattern": "abcdbc",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcadc",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abacdd",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcbbd",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abacad",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcabb",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "aaabaa",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "aaabbc",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "aaabca",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abaacc",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcdaa",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "aabccb",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "aabbbb",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcacb",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abaabb",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abbccb",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcdab",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abbbbc",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abbbcb",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abacdc",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcdca",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcada",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abbbac",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcbdc",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abcaca",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "aaaaab",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "ababca",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abaccb",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abaccd",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "ababcb",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abacdb",
+      "count": 1,
+      "percent": 0.06
+    },
+    {
+      "pattern": "abbaac",
+      "count": 1,
+      "percent": 0.06
+    }
+  ]
+}

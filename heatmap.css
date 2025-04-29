@@ -1,0 +1,62 @@
+/* Heatmap color classes for LGE42 Dashboard */
+
+/* Heatmap levels from 0 (coldest) to 9 (hottest) */
+.heatmap-0 {
+    background-color: rgb(20, 20, 200);
+    color: white;
+  }
+  
+  .heatmap-1 {
+    background-color: rgb(40, 40, 220);
+    color: white;
+  }
+  
+  .heatmap-2 {
+    background-color: rgb(60, 60, 230);
+    color: white;
+  }
+  
+  .heatmap-3 {
+    background-color: rgb(100, 60, 230);
+    color: white;
+  }
+  
+  .heatmap-4 {
+    background-color: rgb(140, 60, 210);
+    color: white;
+  }
+  
+  .heatmap-5 {
+    background-color: rgb(180, 60, 180);
+    color: white;
+  }
+  
+  .heatmap-6 {
+    background-color: rgb(210, 60, 140);
+    color: white;
+  }
+  
+  .heatmap-7 {
+    background-color: rgb(230, 60, 100);
+    color: white;
+  }
+  
+  .heatmap-8 {
+    background-color: rgb(230, 60, 60);
+    color: white;
+  }
+  
+  .heatmap-9 {
+    background-color: rgb(255, 30, 30);
+    color: white;
+  }
+  
+  /* Hover effect for all heatmap elements */
+  .digit-box:hover,
+  .number-box:hover {
+    transform: scale(1.08);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
+    transition: all 0.2s ease;
+    cursor: pointer;
+    z-index: 10;
+  }

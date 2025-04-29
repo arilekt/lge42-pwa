@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LGE42 Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="heatmap.css">
+    <link rel="stylesheet" href="style-extension.css">
+
+    <!-- Load Chart.js before our scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+
+    <!-- Load our scripts in the correct order -->
+    <script src="script-final-clean.js" defer></script>
+    <script src="script-extension-final-clean.js" defer></script>
+    <link rel="icon" type="image/png" href="favicon.png">
+</head>
+
+<body>
+    <header>
+        <h1>LGE42 Dashboard</h1>
+        <button id="menu-button" aria-label="Menu">≡</button>
+    </header>
+
+    <!-- Side Menu -->
+    <div id="side-menu" class="side-menu">
+        <div class="menu-header">
+            <h2>Menu</h2>
+            <button id="close-menu" class="close-button">&times;</button>
+        </div>
+        <ul class="menu-items">
+            <li><a href="#" id="menu-reload-data">Reload Source Data</a></li>
+            <li><a href="#" id="menu-reprocess-heatmap">Re-Process Heat Map</a></li>
+            <li><a href="#" id="menu-purchase-history-update">Purchase History Update</a></li>
+            <li><a href="#" id="menu-export-report">Export Report</a></li>
+            <li><a href="#" id="open-help">Help</a></li>
+        </ul>
+    </div>
+
+    <!-- Overlay for when menu is open -->
+    <div id="menu-overlay" class="menu-overlay"></div>
+
+    <main>
+        <div class="main-layout">
+            <!-- Left column -->
+            <div class="left-column">
+                <!-- Current draw section -->
+                <section class="card" id="current-draw">
+                    <h2>Generate Number</h2>
+                    <div class="controls">
+                        <button id="generate-button">Generate Number</button>
+                    </div>
+                </section>
+
+                <!-- Number suggestions section -->
+                <section class="card" id="number-suggestions-container">
+                    <h2>Number Suggestions</h2>
+                    <div id="suggestions-container-block" class="suggestions-container">
+                        <div id="suggestions-section" class="grid gap-4 mb-6">
+                            <!-- Dynamic Suggestions will be populated here -->
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Heatmap section -->
+                <section class="card" id="heatmap">
+                    <h2>Heatmap</h2>
+                    <div class="heatmap-grid">
+                        <!-- Will be populated by JavaScript -->
+                    </div>
+                </section>
+
+                <!-- Past results section -->
+                <section class="card" id="past-results">
+                    <h2>Past Results รางวัลที่ 1</h2>
+                    <div id="prize-top">
+                        <!-- Will be populated by JavaScript -->
+                    </div>
+
+                    <div id="prize-lower">
+                        <!-- Will be populated by JavaScript -->
+                    </div>
+                </section>
+            </div>
+
+            <!-- Right column -->
+            <div class="right-column">
+                <!-- Purchase history section -->
+                <section class="card" id="purchase-history">
+                    <h2>Purchase History</h2>
+                    <div id="purchase-history-container">
+                        <!-- Will be populated by JavaScript -->
+                    </div>
+                </section>
+
+                <!-- Pattern chart section -->
+                <div id="pattern-chart-section" class="card p-4">
+                    <h3 class="text-lg font-semibold mb-2">📊 Pattern Frequency (รางวัล 2–5)</h3>
+                    <canvas id="patternChartMain" height="400"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Past results 3-5 section -->
+        <section class="card" id="past-results-3-5">
+            <h2>Past Results รางวัลที่ 3-5</h2>
+            <div id="prize-3-5-container">
+                <!-- Will be populated by JavaScript -->
+            </div>
+        </section>
+    </main>
+
+    <!-- Notification container -->
+    <div id="notification-container"></div>
+
+    <!-- Purchase History Modal -->
+    <div id="purchase-history-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <span id="close-modal-btn" class="close">&times;</span>
+            <h2>Update Purchase History</h2>
+
+            <label for="draw-select">เลือกงวด:</label>
+            <select id="draw-select"></select>
+
+            <div id="number-list"></div>
+
+            <input type="text" id="new-number-input" placeholder="กรอกเลข 6 หลัก" maxlength="6" />
+            <button id="add-number-btn">+ เพิ่มเลข</button>
+
+            <div style="margin-top: 1em;">
+                <button id="save-history-btn">💾 Save</button>
+                <button id="reset-history-btn">🔄 Reset</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Success Toast -->
+    <div id="toast-success"
+        style="display:none; position: fixed; bottom: 20px; right: 20px; background: #4caf50; color: white; padding: 10px 20px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.3); z-index: 9999;">
+        บันทึกสำเร็จแล้ว
+    </div>
+</body>
+
+</html>

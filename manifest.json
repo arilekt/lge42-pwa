@@ -1,0 +1,23 @@
+{
+    "name": "LGE42 Dashboard",
+    "short_name": "LGE42",
+    "description": "LGE42 Dashboard - Real-time analysis and historical tracking",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#003366",
+    "theme_color": "#003366",
+    "lang": "th",
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  

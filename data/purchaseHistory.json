@@ -1,0 +1,101 @@
+[
+  {
+    "draw_date": "2025-05-02",
+    "purchased_numbers": [
+      {
+        "number": "380442",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      },
+      {
+        "number": "669262",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      }
+    ]
+  },
+  {
+    "draw_date": "2025-04-16",
+    "purchased_numbers": [
+      {
+        "number": "503175",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      },
+      {
+        "number": "903240",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      }
+    ]
+  },
+  {
+    "draw_date": "2025-04-01",
+    "purchased_numbers": [
+      {
+        "number": "364540",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      },
+      {
+        "number": "990194",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      }
+    ]
+  },
+  {
+    "draw_date": "2025-03-16",
+    "purchased_numbers": [
+      {
+        "number": "044794",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      },
+      {
+        "number": "056235",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      },
+      {
+        "number": "301020",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      },
+      {
+        "number": "694778",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      }
+    ]
+  },
+  {
+    "draw_date": "2025-03-01",
+    "purchased_numbers": [
+      {
+        "number": "335247",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      },
+      {
+        "number": "996711",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      }
+    ]
+  },
+  {
+    "draw_date": "2025-02-16",
+    "purchased_numbers": [
+      {
+        "number": "369550",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      },
+      {
+        "number": "966259",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      }
+    ]
+  },
+  {
+    "draw_date": "2025-02-01",
+    "purchased_numbers": [
+      {
+        "number": "296959",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      },
+      {
+        "number": "988415",
+        "match_description": "ไม่ถูกรางวัล (mock description)"
+      }
+    ]
+  }
+]
