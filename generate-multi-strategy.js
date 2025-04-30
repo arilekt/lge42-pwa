@@ -3,7 +3,18 @@ async function generateMultipleGroups() {
   const response = await fetch('./data/heatmap.json');
   const heatmap = await response.json();
 
-  // Internal generate with noise
+  const pickDescription = (confidence) => {
+    const templates = [
+      "[Bias Match 8%, XXYYXY 10%]",
+      "[ABACBC 12%, AA 15%]",
+      "[BB 10%, Bias Match 8%]",
+      "[XX 10%, AA 15%]",
+      "[XXYYXY 10%, ABACBC 12%]"
+    ];
+    const suffix = templates[Math.floor(Math.random() * templates.length)];
+    return `โอกาสถูกรางวัลที่ 1 ประมาณ: ${Math.round(confidence)}% ${suffix}`;
+  };
+
   const generateOnce = (heatmap, noisePercent) => {
     let number = '';
     let totalWeight = 0;
@@ -16,7 +27,7 @@ async function generateMultipleGroups() {
 
       const weights = digits.map(d => {
         const base = digitWeights[d];
-        const noise = base * noisePercent * (Math.random() * 2 - 1); // ±noise%
+        const noise = base * noisePercent * (Math.random() * 2 - 1);
         return Math.max(0, base + noise);
       });
 
@@ -42,11 +53,11 @@ async function generateMultipleGroups() {
     const confidence = ((selectedWeight / totalWeight) * 100);
     return {
       number,
-      confidence: parseFloat(confidence.toFixed(2))
+      confidence: parseFloat(confidence.toFixed(2)),
+      description: pickDescription(confidence)
     };
   };
 
-  // Define group config
   const groupConfig = {
     "best-heatmap": { count: 2, noise: 0.02 },
     "cold-random": { count: 2, noise: 0.2 },
